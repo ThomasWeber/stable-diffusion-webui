@@ -14,8 +14,8 @@ Check the [custom scripts](https://github.com/AUTOMATIC1111/stable-diffusion-web
 - Prompt
 - Stable Diffusion upscale
 - Attention, specify parts of text that the model should pay more attention to
-    - a man in a ((txuedo)) - will pay more attentinoto tuxedo
-    - a man in a (txuedo:1.21) - alternative syntax
+    - a man in a ((tuxedo)) - will pay more attention to tuxedo
+    - a man in a (tuxedo:1.21) - alternative syntax
 - Loopback, run img2img procvessing multiple times
 - X/Y plot, a way to draw a 2 dimensional plot of images with different parameters
 - Textual Inversion
